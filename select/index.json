@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Very Very Very",
+  "base_artist": "I.O.I",
+  "createdAt": "2025-12-26T15:08:54.474149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Very Very Very",
+      "artist": "I.O.I",
+      "has_synced": true,
+      "path": "select/01_Very_Very_Very_I.O.I.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Very Very Very",
+      "artist": "아이오아이 (I.O.I)",
+      "has_synced": true,
+      "path": "select/02_Very_Very_Very_아이오아이_(I.O.I).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Very Very Very 너무너무너무",
+      "artist": "IoI 아이오아이",
+      "has_synced": true,
+      "path": "select/03_Very_Very_Very_너무너무너무_IoI_아이오아이.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "너무너무너무 (Very Very Very)",
+      "artist": "아이오아이 (I.O.I)",
+      "has_synced": true,
+      "path": "select/04_너무너무너무_(Very_Very_Very)_아이오아이_(I.O.I).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Very Very Very",
+      "artist": "I.O.I",
+      "has_synced": true,
+      "path": "select/05_Very_Very_Very_I.O.I.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "너무너무너무 Very Very Very",
+      "artist": "아이오아이 (I.O.I)",
+      "has_synced": true,
+      "path": "select/06_너무너무너무_Very_Very_Very_아이오아이_(I.O.I).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "너무너무너무 Very Very Very",
+      "artist": "아이오아이 (I.O.I)",
+      "has_synced": true,
+      "path": "select/07_너무너무너무_Very_Very_Very_아이오아이_(I.O.I).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Very Very Very",
+      "artist": "I.O.I",
+      "has_synced": true,
+      "path": "select/08_Very_Very_Very_I.O.I.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Very Very Very",
+      "artist": "I.O.I",
+      "has_synced": false,
+      "path": "select/pl_01_Very_Very_Very_I.O.I.txt"
+    }
+  ]
+}
